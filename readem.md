@@ -17,7 +17,7 @@
 - **windows**: ==CTRL+SPACE== : Te ayuda autocompletar una palabra.
 - **windows**: ==CTRL+x== :Borra una linea.
 - **windows**: ==ClICK en el archivo + F2== : Cambia el normbre del archivo.
-
+Hola esto es prueba asdasdadsasdadsadasd
 ## Comandos de la terminal
 - <ins>pwd</ins> : Me permite saber en que directorio estoy trabajando.
 - <ins>touch</ins> : Para crear un archivo.
