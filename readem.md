@@ -1,5 +1,16 @@
 # Clase01: 30 Abril del 2024
+**Nombres**
+- Rommel Rivera 
+## Visual Studio Code
+
+Visual Studio Code es un software de Microsoft que edita códigos fuente disponibles para Windows, Linux y macOS. Este programa no necesita tanto espacio para su instalación a diferencia de Visual Studio. Es compatible con JavaScript y Node.js y extensiones a otros lenguajes como Python.
+ **Caracteriisticas**
+ - **IntelliSense:** esta característica le ofrece al programador el autocompletado y resaltado de sintaxis, lo que lo hace más rápido a la hora de escribir un código. Proporciona sugerencias de códigos y terminaciones inteligentes con relaciones a variables y funciones.
+- **Depuración:** esta herramienta ayuda a detectar errores en los códigos, para evitar revisar línea por línea, así como también detecta errores mínimos antes de ejecutar la depuración en sí.
+- **Extensiones:** VS Code es un editor potente por las extensiones que maneja, las cuales permiten personalizar y agregar funciones adicionales de forma aislada y modular. Esto hace que sea más fácil programar en diferentes lenguajes, agregar nuevos temas al editor y conectar con otros servicios.
+
 ## Comandos visual code
+
 
 - **Windows**: ==CTRL+SHIFT+P== :  Abre el panel de control que tiene VSC.
 - **Windows**: ==CTRL+P== : Abre panel para cambiar de diferente archivo que tengas en tu carpeta.
@@ -17,7 +28,7 @@
 - **windows**: ==CTRL+SPACE== : Te ayuda autocompletar una palabra.
 - **windows**: ==CTRL+x== :Borra una linea.
 - **windows**: ==ClICK en el archivo + F2== : Cambia el normbre del archivo.
-Hola esto es prueba asdasdadsasdadsadasd
+
 ## Comandos de la terminal
 - <ins>pwd</ins> : Me permite saber en que directorio estoy trabajando.
 - <ins>touch</ins> : Para crear un archivo.
