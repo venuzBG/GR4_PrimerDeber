@@ -29,6 +29,35 @@ Visual Studio Code es un software de Microsoft que edita códigos fuente disponi
 - **windows**: ==CTRL+x== :Borra una linea.
 - **windows**: ==ClICK en el archivo + F2== : Cambia el normbre del archivo.
 
+## Personalizacion de nuestro entorno de trabajo
+
+Visual estudio nos permite configurar nuestra inferzas o entorno de trabja a nuestro gusto mediante una gran variedad de extensiones o opcion que posee el mismo visul studio code para esto veremos algunas extenciones que se pueden untilizar para esta personalizacion.
+
+- **Extension para colocar icnonos a cada uno de nuestros archivos**
+![](Captura.PNG)
+
+    - Aqui podemos ver como quedaria una carpeta con archivos e imagenes con iconos diferente para ser identificados de forma facil
+
+        ![](Captura8.PNG)
+
+## Uso del terminal y tambien del "Bash"
+
+El terminal o consola es el entorno donde trabjamos directamente con lineas de comando
+
+![](Captura9.PNG)
+
+Este es el terminal por defecto que nos otorga visula studio code el cual pertecene a windows, es decir aqui podremos solo ejecutar comando que pertenezcan a este sistema operativo el cual lleva por nombre power shell
+
+### Git Bash
+
+Es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
+
+- **¿Qué es Blash?**
+Bash es el acrónimo en inglés de Bourne Again Shell.
+
+- **¿Qué es Shell?**
+Es una aplicación de terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos.
+
 ## Comandos de la terminal
 - <ins>pwd</ins> : Me permite saber en que directorio estoy trabajando.
 - <ins>touch</ins> : Para crear un archivo.
