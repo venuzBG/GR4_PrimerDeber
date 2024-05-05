@@ -1,22 +1,22 @@
 # Clase01: 30 Abril del 2024
 ## Comandos visual code
 
-- Windows: CTRL+SHIFT+P <!-- abre el panel de control que tiene VSC -->
-- Windows: CTRL+P <!-- abre panel para cambiar de diferente archivo que tengas en tu carpeta -->
-- Windows: CTRL+B <!-- la pestaña que te muestra tus archivos -->
-- Windows: CTRL+D <!-- te permite cambiar el nombre de varias palabras/variables del mismo nombre -->
-- Windows: CTRL+F <!-- te ayuda a buscar palbara/variable en el codigo -->
-- windows: CTRL+S <!-- es la opcion para guardar -->
-- Windows: AlT + -> or <- <!-- si esta abierto pestañas te permite cambiar a otra -->
-- Windows: AlT + up or down <!-- mueve toda la linea de acuerdo a la flecha -->
+- **Windows**: ==CTRL+SHIFT+P== :  Abre el panel de control que tiene VSC.
+- **Windows**: ==CTRL+P== : Abre panel para cambiar de diferente archivo que tengas en tu carpeta.
+- **Windows**: ==CTRL+B== : La pestaña que te muestra tus archivos.
+- **Windows**: ==CTRL+D== : Te permite cambiar el nombre de varias palabras/variables del mismo nombre.
+- **Windows**: ==CTRL+F== : Te ayuda a buscar palbara/variable en el codigo.
+- **windows**: ==CTRL+S== : Es la opcion para guardar.
+- **Windows**: ==AlT + or -== : Si esta abierto pestañas te permite cambiar a otra.
+- **Windows**: ==AlT + up or down== :  Mueve toda la linea de acuerdo a la flecha.
 
-- windows: SHIFT+ALT+ up or down <!-- copia toda la linea a la siguiente -->
-- windows: SHIFT+ALT+A  <!-- pone para comentar una linea -->
-- windows: CTRL+K+C <!-- pondra toda la linea como comentario -->
-- windows: CTRL+T <!--  -->
-- windows: CTRL+SPACE <!-- te ayuda autocompletar una palabra -->
-- windows: CTRL+x <!-- borra una linea -->
-- windows: ClICK en el archivo + F2 <!-- Cambia el normbre del archivo -->
+- **windows**: ==SHIFT+ALT+ up or down== : Copia toda la linea a la siguiente.
+- **windows**: ==SHIFT+ALT+A== : Pone para comentar una linea.
+- **windows**: ==CTRL+K+C== : Pondra toda la linea como comentario.
+- **windows**: ==CTRL+T== : Permite mostrar todos los simbolos.
+- **windows**: ==CTRL+SPACE== : Te ayuda autocompletar una palabra.
+- **windows**: ==CTRL+x== :Borra una linea.
+- **windows**: ==ClICK en el archivo + F2== : Cambia el normbre del archivo.
 
 ## Comandos de la terminal
 - pwd <!-- me permite saber en que directorio estoy trabajando -->
