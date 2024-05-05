@@ -19,13 +19,13 @@
 - **windows**: ==ClICK en el archivo + F2== : Cambia el normbre del archivo.
 
 ## Comandos de la terminal
-- pwd <!-- me permite saber en que directorio estoy trabajando -->
-- touch <!-- para crear un archivo -->
-Ej: touch readme.md
-- code <!-- para crear archivos -->
-Ej: code readme.md
-- touch "" >> texto2.txt <!-- dentro de las comillas escribo lo que quiero que se escriba al crear el archivo -->
-EJ: touch "hola mundo" >> texto2.txt
+- <ins>pwd</ins> : Me permite saber en que directorio estoy trabajando.
+- <ins>touch</ins> : Para crear un archivo.
+*Ej: touch readme.md*
+- <ins>code</ins> : Para crear archivos.
+*Ej: code readme.md*
+- <ins>touch **""** >> texto2.txt</ins> : Dentro de las comillas escribo lo que quiero que se escriba al crear el archivo -->
+*EJ: touch "hola mundo" >> texto2.txt*
 
 ### Recomendaciones de otros comandos que tiene markdown
 
@@ -43,6 +43,9 @@ EJ: touch "hola mundo" >> texto2.txt
     + Linea 3
 
 # Clase03: 31 Abril del 2024
+
+### Markdown
+
 
 - markdown (para convertir a pdf mi markdown):
     - Windows: CTRL+SHIFT+P 
