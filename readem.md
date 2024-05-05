@@ -26,6 +26,21 @@
 *Ej: code readme.md*
 - <ins>touch **""** >> texto2.txt</ins> : Dentro de las comillas escribo lo que quiero que se escriba al crear el archivo -->
 *EJ: touch "hola mundo" >> texto2.txt*
+## Git y Github
+<div style="overflow: hidden; display: flex; align-items: center;">
+    <div style="float: left; width: 50%;">
+        <img src="img2.jpg" alt="Logo git y github" style="width: 100%;" />
+    </div>
+    <div style="float: right; width: 100%;">
+     Git es un sistema de control de versiones rastrea los cambios que se han hecho en un conjunto de archivos es decir, un proyecto.
+     <div style="float: right; width: 100%;">
+     Github es un servicio que almacena repositorios en sus servidores y control de versiones usando git.
+    </div>
+    </div>
+    
+</div>
+
+
 
 ### Recomendaciones de otros comandos que tiene markdown
 
@@ -45,12 +60,15 @@
 # Clase03: 31 Abril del 2024
 
 ### Markdown
-
+<p align="center">
+  <img src="img1.png" alt="Mi imagen" width="200px" />
+</p>
+Es un formato que nos permite generar archivos xtml y html utilizando una sintáxis bastante clara y sencilla y sobre todo fácil de escribir.
 
 - markdown (para convertir a pdf mi markdown):
-    - Windows: CTRL+SHIFT+P 
-    - despues busco la opcion de "markdown export pdf"
-    - se crea automaticamente un archivo pdf de tu markdown 
+    1.  Windows: CTRL+SHIFT+P 
+    2.  Despues busco la opcion de "markdown export pdf"
+    3.  Se crea automaticamente un archivo pdf de tu markdown 
     
 - t * palabra o texto * <!-- entre los asteriscos la palbra o el texto estara en cursiva -->
 - ** palabra o texto ** <!-- entre los dos signos nos permite poner el todo un texto o una palabra en negrita -->
