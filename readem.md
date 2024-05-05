@@ -79,13 +79,13 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
     -   Nos permite poner una parte del codigo para analizar despues de (```) tenemos que poner el lenguaje de progrmacion
         - Ejemplos:
             1. 
-                ```java
+                ``` java
                 public int sumar(){
                 int i=10;
                 }
                 ```
             2. 
-                 ```java
+                 ``` java
                 public clas Hola{
                 /* clase principal */
                     public class void main{
@@ -101,26 +101,25 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
 |    C    |     D    |
 
 - Comandos de git
-    1. <ins>choco</ins> : Revisar en el internet.
-    2. <ins>git init</ins> : Crea un carpeta oculta en tu carpeta de proyecto  y va aparecer tus archivo con "U".
-    3. <ins>git status</ins> : Te muestra que archivos has guardado --> (rojo: no esta guardado and verde: esta guardado).
-    4. <ins>git commit</ins> : Para guradar el proyecto.
-    5. <ins>git checkout -b "Nombre de rama"</ins> : Crea y cambia de rama.
-    6. <ins>git branch</ins> : Crea una rama.
-    7. <ins>git push</ins> : Subo todo al github.
-    8. <ins>git pull</ins> : Nos ayuda a traer los cambios hechos en la nube.
-    9. <ins>git clone url</ins> : Baja el archivo de algun proyecto.
-    10. <ins>git ignore</ins> : Dentro del archivo puedes poner archivos q va ignorar o no va a guardar.
-    11. <ins>git config --global user.name "nombre"</ins> : Colocar nombre de ususario.
-    12. <ins>git config user.name</ins> : Verificar si esta su nombre de ususario. (**Es lo mismo para el email solo cambia user.email**)
-    13. <ins>git config --global init.default branch "main"</ins> : Cambiar de master a main.
-    14. <ins>git commit -m Descripcion</ins> :Agregar cambios al repositorio local y una descripcion del cambio.
-    15. <ins>git log</ins> :Muestra historial de commits. Si agregas "--oneline", aparece mas compacto. 
-    16. <ins>git add .</ins> : Agregar cambios al commit.
-    17. <ins>git config --global core.editor</ins> : Asociar al vscode.
-    18. <ins>git branch -m nombre actual nombre nuevo</ins> : Cmabiar nombre de rama sin estar en la rama a la que se va a cambiar.
-    19. <ins>git branch -d</ins> : Eliminar rama (locales no publicadas).
-    20. <ins>git merge nombre-de-rama</ins> : Fusionar rama con main.
-    21. <ins>git remote</ins> : Ver nombre del repositorio remoto.
-    22. <ins>git fetch origin</ins> : Crear una rama local con los cambios de la rama remota. 
-    23. <ins>git push origin -d</ins> : Eliminar rama remota.
+    1. <ins>git init</ins> : Crea un carpeta oculta en tu carpeta de proyecto  y va aparecer tus archivo con "U".
+    2. <ins>git status</ins> : Te muestra que archivos has guardado --> (rojo: no esta guardado and verde: esta guardado).
+    3. <ins>git commit</ins> : Para guradar el proyecto.
+    4. <ins>git checkout -b "Nombre de rama"</ins> : Crea y cambia de rama.
+    5. <ins>git branch</ins> : Crea una rama.
+    6. <ins>git push</ins> : Subo todo al github.
+    7. <ins>git pull</ins> : Nos ayuda a traer los cambios hechos en la nube.
+    8. <ins>git clone url</ins> : Baja el archivo de algun proyecto.
+    9. <ins>git ignore</ins> : Dentro del archivo puedes poner archivos q va ignorar o no va a guardar.
+    10. <ins>git config --global user.name "nombre"</ins> : Colocar nombre de ususario.
+    11. <ins>git config user.name</ins> : Verificar si esta su nombre de ususario. (**Es lo mismo para el email solo cambia user.email**)
+    12. <ins>git config --global init.default branch "main"</ins> : Cambiar de master a main.
+    13. <ins>git commit -m Descripcion</ins> :Agregar cambios al repositorio local y una descripcion del cambio.
+    14. <ins>git log</ins> :Muestra historial de commits. Si agregas "--oneline", aparece mas compacto. 
+    15. <ins>git add .</ins> : Agregar cambios al commit.
+    16. <ins>git config --global core.editor</ins> : Asociar al vscode.
+    17. <ins>git branch -m nombre actual nombre nuevo</ins> : Cmabiar nombre de rama sin estar en la rama a la que se va a cambiar.
+    18. <ins>git branch -d</ins> : Eliminar rama (locales no publicadas).
+    19. <ins>git merge nombre-de-rama</ins> : Fusionar rama con main.
+    20. <ins>git remote</ins> : Ver nombre del repositorio remoto.
+    21. <ins>git fetch origin</ins> : Crear una rama local con los cambios de la rama remota. 
+    22. <ins>git push origin -d</ins> : Eliminar rama remota.
