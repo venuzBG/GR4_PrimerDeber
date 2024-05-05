@@ -27,11 +27,13 @@
 - <ins>touch **""** >> texto2.txt</ins> : Dentro de las comillas escribo lo que quiero que se escriba al crear el archivo -->
 *EJ: touch "hola mundo" >> texto2.txt*
 ## Git y Github
+
+
 <div style="overflow: hidden; display: flex; align-items: center;">
     <div style="float: left; width: 50%;">
         <img src="img2.jpg" alt="Logo git y github" style="width: 100%;" />
     </div>
-    <div style="float: right; width: 100%;">
+    <div style="float: right; width: 300%;">
      Git es un sistema de control de versiones rastrea los cambios que se han hecho en un conjunto de archivos es decir, un proyecto.
      <div style="float: right; width: 100%;">
      Github es un servicio que almacena repositorios en sus servidores y control de versiones usando git.
