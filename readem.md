@@ -1,18 +1,22 @@
 # Clase01: 30 Abril del 2024
+
 **Nombres**
-- Rommel Rivera 
+
+- Rommel Rivera
 - Sebastian Oña
 - Richard Tipantiza
+- Carlos Troya
+
 ## Visual Studio Code
 
 Visual Studio Code es un software de Microsoft que edita códigos fuente disponibles para Windows, Linux y macOS. Este programa no necesita tanto espacio para su instalación a diferencia de Visual Studio. Es compatible con JavaScript y Node.js y extensiones a otros lenguajes como Python.
  **Caracteriisticas**
- - **IntelliSense:** esta característica le ofrece al programador el autocompletado y resaltado de sintaxis, lo que lo hace más rápido a la hora de escribir un código. Proporciona sugerencias de códigos y terminaciones inteligentes con relaciones a variables y funciones.
+
+- **IntelliSense:** esta característica le ofrece al programador el autocompletado y resaltado de sintaxis, lo que lo hace más rápido a la hora de escribir un código. Proporciona sugerencias de códigos y terminaciones inteligentes con relaciones a variables y funciones.
 - **Depuración:** esta herramienta ayuda a detectar errores en los códigos, para evitar revisar línea por línea, así como también detecta errores mínimos antes de ejecutar la depuración en sí.
 - **Extensiones:** VS Code es un editor potente por las extensiones que maneja, las cuales permiten personalizar y agregar funciones adicionales de forma aislada y modular. Esto hace que sea más fácil programar en diferentes lenguajes, agregar nuevos temas al editor y conectar con otros servicios.
 
 ## Comandos visual code
-
 
 - **Windows**: ==CTRL+SHIFT+P== :  Abre el panel de control que tiene VSC.
 - **Windows**: ==CTRL+P== : Abre panel para cambiar de diferente archivo que tengas en tu carpeta.
@@ -38,7 +42,7 @@ Visual estudio nos permite configurar nuestra inferzas o entorno de trabja a nue
 - **Extension para colocar icnonos a cada uno de nuestros archivos**
 ![](Captura.PNG)
 
-    - Aqui podemos ver como quedaria una carpeta con archivos e imagenes con iconos diferente para ser identificados de forma facil
+  - Aqui podemos ver como quedaria una carpeta con archivos e imagenes con iconos diferente para ser identificados de forma facil
 
         ![](Captura8.PNG)
 
@@ -61,6 +65,7 @@ Bash es el acrónimo en inglés de Bourne Again Shell.
 Es una aplicación de terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos.
 
 ## Comandos de la terminal
+
 - <ins>pwd</ins> : Me permite saber en que directorio estoy trabajando.
 - <ins>touch</ins> : Para crear un archivo.
 *Ej: touch readme.md*
@@ -68,8 +73,8 @@ Es una aplicación de terminal que se utiliza como interfaz con un sistema opera
 *Ej: code readme.md*
 - <ins>touch **""** >> texto2.txt</ins> : Dentro de las comillas escribo lo que quiero que se escriba al crear el archivo -->
 *EJ: touch "hola mundo" >> texto2.txt*
-## Git y Github
 
+## Git y Github
 
 <div style="overflow: hidden; display: flex; align-items: center;">
     <div style="float: left; width: 50%;">
@@ -81,10 +86,8 @@ Es una aplicación de terminal que se utiliza como interfaz con un sistema opera
      Github es un servicio que almacena repositorios en sus servidores y control de versiones usando git.
     </div>
     </div>
-    
+
 </div>
-
-
 
 ### Recomendaciones de otros comandos que tiene markdown
 
@@ -95,31 +98,40 @@ Es una aplicación de terminal que se utiliza como interfaz con un sistema opera
         2. linea 2
     3. Linea 3
 - Si queremos poner otro signo para ideas hacemos lo siguiente:
-    + Linea 1  
-    + Linea 2
-        + Linea 1
-        + linea 2
-    + Linea 3
+  - Linea 1  
+  - Linea 2
+    - Linea 1
+    - linea 2
+  - Linea 3
 
 # Clase03: 31 Abril del 2024
 
 ### Markdown
+
 <p align="center">
   <img src="img1.png" alt="Mi imagen" width="200px" />
 </p>
 Es un formato que nos permite generar archivos xtml y html utilizando una sintáxis bastante clara y sencilla y sobre todo fácil de escribir.
 
 - markdown (para convertir a pdf mi markdown):
-    1.  Windows: CTRL+SHIFT+P 
-    2.  Despues busco la opcion de "markdown export pdf"
-    3.  Se crea automaticamente un archivo pdf de tu markdown 
-    
-- * palabra o texto * <!-- entre los asteriscos la palbra o el texto estara en cursiva -->
-- ** palabra o texto ** <!-- entre los dos signos nos permite poner el todo un texto o una palabra en negrita -->
-- *** palabra o texto *** <!-- cursiva y en negrita -->
-- windows: ALT+9+6 (`) or windows: ALT+1+2+6 (~) <!-- crear este signo para lo siguiente -->
-    -   Nos permite poner una parte del codigo para analizar despues de (```) tenemos que poner el lenguaje de progrmacion
-        - Ejemplos:
+    1. Windows: CTRL+SHIFT+P
+    2. Despues busco la opcion de "markdown export pdf"
+    3. Se crea automaticamente un archivo pdf de tu markdown
+
+- Para poner cursiva se debe encerrar entre asteriscos:
+
+    \*palabra o texto* = *palabra o texto*  <!-- entre los asteriscos la palbra o el texto estara en cursiva -->
+- Para poner en negrillas se debe encerrar entre doble asteriscos:
+
+    \*\*palabra o texto** = **palabra o texto** <!-- entre los dos signos nos permite poner el todo un texto o una palabra en negrita -->
+- Para poner cursiva y negrillas se debe encerrar entre triple asteriscos:
+
+    \*\*\*palabra o texto*** = ***palabra o texto*** <!-- cursiva y en negrita -->
+- Windows: ALT+9+6 (`) or windows: ALT+1+2+6 (~) <!-- crear este signo para lo siguiente -->
+  - Nos permite poner una parte del codigo para analizar despues de (```) tenemos que poner el lenguaje de progrmacion.
+
+    Ejemplos:
+
             1. 
                 
                 ``` java
@@ -139,10 +151,31 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
                 ```
 - Para hacer cuadros:
 
-|Columna 1 | columna 2 |
-|---------|----------|
-|    A    |     B    |
-|    C    |     D    |
+  - Se organiza el texto en columnas y filas. Las filas se obtienen con salto de linea de texto y las columnas se obtienen encerrando el texto entre barras: |Texto|
+  - Al finalizar la primera fila en donde tenemos los encabezados, se digita una siguiente fila de lineas entrecortadas para dar formato de titulo dentro de la tabla: |----|
+
+        |Columna 1 | columna 2 |
+        |----------|-----------|
+        |     A    |      B    |
+        |     C    |      D    |
+
+    Para lo cual obtendremos:
+
+    |Columna 1 | columna 2 |
+    |---------|----------|
+    |    A    |     B    |
+    |    C    |     D    |
+- Insertar link o enlace:
+
+  - Si queremos solo insertar el hipervinculo al URL debemos encerrar entre <> la direccion.
+
+        <https://www.google.com>
+     De lo que obtenemos: <https://www.google.com>
+
+  - Si queremos aplicar un hipervinculo a un texto con un direccion, el texto se encierra entre corchetes, el enlace entre parentesis y si deseamos aplicar un mensaje sobre el texto cuando se pose el cursor, se encierra dicho mensaje entre comillas.
+
+        [Buscador](https://www.google.com "Google")
+    De lo que obtenemos: [Buscador](https://www.google.com "Google")
 
 - Comandos de git
     1. <ins>git init</ins> : Crea un carpeta oculta en tu carpeta de proyecto  y va aparecer tus archivo con "U".
@@ -158,12 +191,12 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
     11. <ins>git config user.name</ins> : Verificar si esta su nombre de ususario. (**Es lo mismo para el email solo cambia user.email**)
     12. <ins>git config --global init.default branch "main"</ins> : Cambiar de master a main.
     13. <ins>git commit -m Descripcion</ins> :Agregar cambios al repositorio local y una descripcion del cambio.
-    14. <ins>git log</ins> :Muestra historial de commits. Si agregas "--oneline", aparece mas compacto. 
+    14. <ins>git log</ins> :Muestra historial de commits. Si agregas "--oneline", aparece mas compacto.
     15. <ins>git add .</ins> : Agregar cambios al commit.
     16. <ins>git config --global core.editor</ins> : Asociar al vscode.
     17. <ins>git branch -m nombre actual nombre nuevo</ins> : Cambiar nombre de rama sin estar en la rama a la que se va a cambiar.
     18. <ins>git branch -d</ins> : Eliminar rama (locales no publicadas).
     19. <ins>git merge nombre-de-rama</ins> : Fusionar rama con main.
     20. <ins>git remote</ins> : Ver nombre del repositorio remoto.
-    21. <ins>git fetch origin</ins> : Crear una rama local con los cambios de la rama remota. 
+    21. <ins>git fetch origin</ins> : Crear una rama local con los cambios de la rama remota.
     22. <ins>git push origin -d</ins> : Eliminar rama remota.
