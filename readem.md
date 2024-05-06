@@ -1,6 +1,8 @@
 # Clase01: 30 Abril del 2024
 **Nombres**
 - Rommel Rivera 
+- Sebastian Oña
+- Richard Tipantiza
 ## Visual Studio Code
 
 Visual Studio Code es un software de Microsoft que edita códigos fuente disponibles para Windows, Linux y macOS. Este programa no necesita tanto espacio para su instalación a diferencia de Visual Studio. Es compatible con JavaScript y Node.js y extensiones a otros lenguajes como Python.
@@ -112,19 +114,21 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
     2.  Despues busco la opcion de "markdown export pdf"
     3.  Se crea automaticamente un archivo pdf de tu markdown 
     
-- t * palabra o texto * <!-- entre los asteriscos la palbra o el texto estara en cursiva -->
+- * palabra o texto * <!-- entre los asteriscos la palbra o el texto estara en cursiva -->
 - ** palabra o texto ** <!-- entre los dos signos nos permite poner el todo un texto o una palabra en negrita -->
 - *** palabra o texto *** <!-- cursiva y en negrita -->
 - windows: ALT+9+6 (`) or windows: ALT+1+2+6 (~) <!-- crear este signo para lo siguiente -->
     -   Nos permite poner una parte del codigo para analizar despues de (```) tenemos que poner el lenguaje de progrmacion
         - Ejemplos:
             1. 
+                
                 ``` java
                 public int sumar(){
                 int i=10;
                 }
                 ```
             2. 
+
                  ``` java
                 public clas Hola{
                 /* clase principal */
@@ -157,7 +161,7 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
     14. <ins>git log</ins> :Muestra historial de commits. Si agregas "--oneline", aparece mas compacto. 
     15. <ins>git add .</ins> : Agregar cambios al commit.
     16. <ins>git config --global core.editor</ins> : Asociar al vscode.
-    17. <ins>git branch -m nombre actual nombre nuevo</ins> : Cmabiar nombre de rama sin estar en la rama a la que se va a cambiar.
+    17. <ins>git branch -m nombre actual nombre nuevo</ins> : Cambiar nombre de rama sin estar en la rama a la que se va a cambiar.
     18. <ins>git branch -d</ins> : Eliminar rama (locales no publicadas).
     19. <ins>git merge nombre-de-rama</ins> : Fusionar rama con main.
     20. <ins>git remote</ins> : Ver nombre del repositorio remoto.
