@@ -161,7 +161,7 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
 
     Para lo cual obtendremos:
 
-    |Columna 1 | columna 2 |
+    |Columna 1 | columna 2|
     |---------|----------|
     |    A    |     B    |
     |    C    |     D    |
@@ -201,21 +201,5 @@ Es un formato que nos permite generar archivos xtml y html utilizando una sintá
     21. <ins>git fetch origin</ins> : Crear una rama local con los cambios de la rama remota.
     22. <ins>git push origin -d</ins> : Eliminar rama remota.
 
-# Espacio de trabajo de los Integrantes:
- -<ins>==Richard Tipantiza==</ins>
-![Cap1](Screenshot_1.jpg)
-<div style="display: flex;">
-    <img src="SSH2jpg.jpg" alt="Texto alternativo 1" style="flex: 1; width: 400px; height:300px; ">
-    <img src="SSH3.jpg" alt="Texto alternativo 2" style="flex: 1;width: 400px; height:300px;">
-</div>
-
-
-<div style="display: flex;">
-    <img src="SSH4.jpg" alt="Texto alternativo 1" style="flex: 1; width: 400px; height:300px; ">
-    <img src="SSH5.jpg" alt="Texto alternativo 2" style="flex: 1;width: 350px; height:300px;">
-</div>
-
-![Cap1](Git1.jpg)
-![Cap1](Git2.jpg)
 
 
